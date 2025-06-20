@@ -1,1 +1,1 @@
-# multilingual-sentiment-classification
+# Multilingual Sentiment Classification | NLP & Deep Learning
